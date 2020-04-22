@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
+<Hotels>
+	<Hotel stars="****">
+		<Name>Best Western Plus Lanai Garden Inn &amp; Suites</Name>
+		<Contact>
+			<Phone>(408) 929-8100</Phone>
+			<Email>pluslanai@wester.com</Email>
+		</Contact>
+		<Address BusLines="41, 254">
+			<Number>1575</Number>
+			<Street>Tully Rd</Street>
+			<City>San Jose, CA</City>
+			<Zip>95122</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="***">
+		<Name>Hotel California</Name>
+		<Contact>
+			<Phone>(760) 322-8855</Phone>
+			<Email>california@hotel.org</Email>
+		</Contact>
+		<Address>
+			<Number>424</Number>
+			<Street>E Palm Canyon Dr, Palm Springs</Street>
+			<City>CA</City>
+			<Zip>92264</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="***">
+		<Name>California Suites Hotel</Name>
+		<Contact>
+			<Phone>(858) 560-0545</Phone>
+			<Email>suites@hotel.org</Email>
+		</Contact>
+		<Address BusLines="111, 25">
+			<Number>5415</Number>
+			<Street>Clairemont Mesa Blvd</Street>
+			<City>San Diego, CA</City>
+			<Zip>92117</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="*****">
+		<Name>Extended Stay America Hotel Bakersfield</Name>
+		<Contact>
+			<Phone>(661) 322-6888</Phone>
+			<Email>Bakersfield@extended.com</Email>
+		</Contact>
+		<Address BusLines="52">
+			<Number>3318</Number>
+			<Street>California Ave, Bakersfield</Street>
+			<City>CA</City>
+			<Zip>93304</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="****">
+		<Name>Disney's Grand Californian Hotel and Spa</Name>
+		<Contact>
+			<Phone>(714) 635-2300</Phone>
+			<Email>disney@hotel.com</Email>
+		</Contact>
+		<Address>
+			<Number>1600</Number>
+			<Street>Disneyland Dr, Anaheim</Street>
+			<City>CA</City>
+			<Zip>92803</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="**">
+		<Name>Comfort Inn Paradise</Name>
+		<Contact>
+			<Phone>(530) 876-0191</Phone>
+			<Email>paradise@comfort.com</Email>
+		</Contact>
+		<Address BusLines="4, 24">
+			<Number>5475</Number>
+			<Street>Clark Rd, Paradise</Street>
+			<City>CA</City>
+			<Zip>95122</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="****">
+		<Name>Legoland California Resort</Name>
+		<Contact>
+			<Phone>(760) 918-5346</Phone>
+			<Email>legoland@resort.org</Email>
+		</Contact>
+		<Address>
+			<Number>1</Number>
+			<Street>Legoland Dr, Carlsbad</Street>
+			<City>CA</City>
+			<Zip>92008</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="****">
+		<Name>Spyglass Inn</Name>
+		<Contact>
+			<Phone>(805) 773-4855</Phone>
+			<Email>Spyglass@inn.com</Email>
+		</Contact>
+		<Address BusLines="1, 54">
+			<Number>2705</Number>
+			<Street>Spyglass Dr, Pismo Beach</Street>
+			<City>CA</City>
+			<Zip>93449</Zip>
+		</Address>
+	</Hotel>
+	<Hotel stars="*">
+		<Name>Courtyard Riverside Downtown/UCR Area</Name>
+		<Contact>
+			<Phone>(800) 627-7468</Phone>
+			<Email>riverside@courtyard.org</Email>
+		</Contact>
+		<Address>
+			<Number>1510</Number>
+			<Street>University Ave, Riverside</Street>
+			<City>CA</City>
+			<Zip>92507</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
