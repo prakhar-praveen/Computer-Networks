@@ -1,121 +1,69 @@
-<?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
-<Hotels>
-	<Hotel stars="****">
-		<Name>Best Western Plus Lanai Garden Inn &amp; Suites</Name>
-		<Contact>
-			<Phone>(408) 929-8100</Phone>
-			<Email>pluslanai@wester.com</Email>
-		</Contact>
-		<Address BusLines="41, 254">
-			<Number>1575</Number>
-			<Street>Tully Rd</Street>
-			<City>San Jose, CA</City>
-			<Zip>95122</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="***">
-		<Name>Hotel California</Name>
-		<Contact>
-			<Phone>(760) 322-8855</Phone>
-			<Email>california@hotel.org</Email>
-		</Contact>
-		<Address>
-			<Number>424</Number>
-			<Street>E Palm Canyon Dr, Palm Springs</Street>
-			<City>CA</City>
-			<Zip>92264</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="***">
-		<Name>California Suites Hotel</Name>
-		<Contact>
-			<Phone>(858) 560-0545</Phone>
-			<Email>suites@hotel.org</Email>
-		</Contact>
-		<Address BusLines="111, 25">
-			<Number>5415</Number>
-			<Street>Clairemont Mesa Blvd</Street>
-			<City>San Diego, CA</City>
-			<Zip>92117</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="*****">
-		<Name>Extended Stay America Hotel Bakersfield</Name>
-		<Contact>
-			<Phone>(661) 322-6888</Phone>
-			<Email>Bakersfield@extended.com</Email>
-		</Contact>
-		<Address BusLines="52">
-			<Number>3318</Number>
-			<Street>California Ave, Bakersfield</Street>
-			<City>CA</City>
-			<Zip>93304</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="****">
-		<Name>Disney's Grand Californian Hotel and Spa</Name>
-		<Contact>
-			<Phone>(714) 635-2300</Phone>
-			<Email>disney@hotel.com</Email>
-		</Contact>
-		<Address>
-			<Number>1600</Number>
-			<Street>Disneyland Dr, Anaheim</Street>
-			<City>CA</City>
-			<Zip>92803</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="**">
-		<Name>Comfort Inn Paradise</Name>
-		<Contact>
-			<Phone>(530) 876-0191</Phone>
-			<Email>paradise@comfort.com</Email>
-		</Contact>
-		<Address BusLines="4, 24">
-			<Number>5475</Number>
-			<Street>Clark Rd, Paradise</Street>
-			<City>CA</City>
-			<Zip>95122</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="****">
-		<Name>Legoland California Resort</Name>
-		<Contact>
-			<Phone>(760) 918-5346</Phone>
-			<Email>legoland@resort.org</Email>
-		</Contact>
-		<Address>
-			<Number>1</Number>
-			<Street>Legoland Dr, Carlsbad</Street>
-			<City>CA</City>
-			<Zip>92008</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="****">
-		<Name>Spyglass Inn</Name>
-		<Contact>
-			<Phone>(805) 773-4855</Phone>
-			<Email>Spyglass@inn.com</Email>
-		</Contact>
-		<Address BusLines="1, 54">
-			<Number>2705</Number>
-			<Street>Spyglass Dr, Pismo Beach</Street>
-			<City>CA</City>
-			<Zip>93449</Zip>
-		</Address>
-	</Hotel>
-	<Hotel stars="*">
-		<Name>Courtyard Riverside Downtown/UCR Area</Name>
-		<Contact>
-			<Phone>(800) 627-7468</Phone>
-			<Email>riverside@courtyard.org</Email>
-		</Contact>
-		<Address>
-			<Number>1510</Number>
-			<Street>University Ave, Riverside</Street>
-			<City>CA</City>
-			<Zip>92507</Zip>
-		</Address>
-	</Hotel>
-</Hotels>
+<?xml version='1.0'?>
+<!-- This file represents and instances of 5 hotels -->
+<hotels>
+	<hotel stars="****">
+		<name>The Mirage</name>
+		<contact>
+			<phone>7027917111</phone>
+			<email>contact@themirage.com</email>
+		</contact>
+		<address>
+			<number>3400</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>	
+	<hotel stars="*****">
+		<name>The Venetian</name>
+		<contact>
+			<phone>7024141000</phone>
+			<email>venetian@thevenetian.com</email>
+		</contact>
+		<address>
+			<number>3355</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="*****">
+		<name>Wynn Las Vegas</name>
+		<contact>
+			<phone>7027707000</phone>
+			<email>wynn@wynnlasvegas.com</email>
+		</contact>
+		<address>
+			<number>3131</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="*****">
+		<name>The Palazzo</name>
+		<contact>
+			<phone>7026077777</phone>
+			<email>contact@thepalazzo.com</email>
+		</contact>
+		<address>
+			<number>3325</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="***">
+		<name>Circus Circus</name>
+		<contact>
+			<phone>8006343450</phone>
+			<email>circus@circuscircus.com</email>
+		</contact>
+		<address>
+			<number>2880</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+</hotels>
